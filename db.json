@@ -32,5 +32,25 @@
       "last_name": "Smith",
       "email": "ann@codingthesmartway.com"
     }
+  ],
+  "chartData": [
+    {
+      "id": 1,
+      "value1": 10,
+      "value2": 20,
+      "value3": 15
+    },
+    {
+      "id": 2,
+      "value1": 13,
+      "value2": 19,
+      "value3": 22
+    },
+    {
+      "id": 3,
+      "value1": 20,
+      "value2": 27,
+      "value3": 17
+    }
   ]
 }
